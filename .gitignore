@@ -1,6 +1,1 @@
-$ echo .vscode >> .gitignore
-
-$ git rm --cached .vscode
-rm '.vscode'
-
-$ git commit -m "Start ignoring .vscode"
+vscode/
